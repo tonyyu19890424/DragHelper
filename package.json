@@ -1,0 +1,26 @@
+{
+  "name": "draghelp",
+  "version": "1.0.0",
+  "description": "Little Drag Helper",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Yu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyyu19890424/DragHelper.git"
+  },
+  "keywords": [
+    "drag"
+  ],
+  "bugs": {
+    "url": "https://github.com/tonyyu19890424/DragHelper/issues"
+  },
+  "homepage": "https://github.com/tonyyu19890424/DragHelper#readme"
+}
